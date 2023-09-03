@@ -51,6 +51,40 @@
     </div>
   </div>
 
+  <div class="flex justify-center w-full h-[300px] border-2 mt-14">
+    <div class="container flex justify-center mx-auto">
+      <div class="flex items-center justify-center w-full p-5">
+        <h1 class="font-sans text-5xl font-bold text-center text-black w-fit">
+          Pilih Jadwal
+        </h1>
+      </div>
+      <div class="w-full">
+        <div class="flex items-center justify-center w-full h-full px-10 space-x-5">
+          <div class="p-5 mt-10 border-2 w-96 h-fit rounded-xl">
+            <h5 class="font-sans text-lg font-medium text-center">Jadwal Regular</h5>
+            <ul class="mt-5 font-sans text-center font-regular">
+              <li>Senin - Jumat: 08:00 - 16:00</li>
+              <li>Sabtu: 09:00 - 14:00</li>
+            </ul>
+          </div>
+          <div class="p-5 mt-10 border-2 w-96 h-fit rounded-xl">
+            <h5 class="font-sans text-lg font-medium text-center">Kelas Malam</h5>
+            <ul class="mt-5 font-sans text-center font-regular">
+              <li>Senin - Jumat: 18:00 - 20:00</li>
+              <li>Sabtu: 17:00 - 19:00</li>
+            </ul>
+          </div>
+          <div class="p-5 mt-10 border-2 w-fit h-fit rounded-xl">
+            <h5 class="font-sans text-lg font-medium text-center">Kelas Fleksibel</h5>
+            <ul class="mt-5 font-sans text-center font-regular">
+              <li>Bisa disesuaikan dengan kebutuhan Anda</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
   
   <div class="relative w-full h-[395px] bg-[#001038] mt-16">
     <div class="flex pt-10 mx-auto top-8 left-1/2">
@@ -94,6 +128,8 @@
       </div>
     </div>
   </div>
+
+  
 
   <div class="relative w-full pb-24 bg-[#001038] mt-16">
     <div class="flex pt-10 mx-auto top-10 left-1/2">
