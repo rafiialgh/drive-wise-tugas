@@ -87,15 +87,15 @@
             <p class="mt-10 font-sans text-center font-regular">Mengendalikan kecepatan dan gigi dengan presisi. Pelajari seni berkendara manual dengan mobil-mobil pilihan kami. Rasakan kendali yang sebenarnya di ujung jari Anda.</p>
           </div>
           <div class="w-[30rem] h-fit p-5 border-2 rounded-xl">
-            <h5 class="font-sans text-lg font-medium text-center">Mobil manual</h5>
-            <p class="mt-10 font-sans text-center font-regular">Mengendalikan kecepatan dan gigi dengan presisi. Pelajari seni berkendara manual dengan mobil-mobil pilihan kami. Rasakan kendali yang sebenarnya di ujung jari Anda.</p>
+            <h5 class="font-sans text-lg font-medium text-center">Mobil matic</h5>
+            <p class="mt-10 font-sans text-center font-regular">Kemudahan berkendara tanpa repot berganti gigi. Temukan kenyamanan berkendara dengan mobil-mobil matic terbaru kami. Nikmati perjalanan yang lebih nyaman dan mudah.</p>
           </div>
         </div>
       </div>
     </div>
   </div>
 
-  <div class="relative w-full pb-28 bg-[#001038] mt-16">
+  <div class="relative w-full pb-24 bg-[#001038] mt-16">
     <div class="flex pt-10 mx-auto top-10 left-1/2">
       <h1 class="mx-auto font-sans text-xl font-medium text-white h-fit">Contact us</h1>
     </div>
